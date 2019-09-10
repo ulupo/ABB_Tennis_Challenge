@@ -3,3 +3,5 @@
 *.swo
 *.json
 *.ipynb_che*
+Testing/*
+.DS_Store
