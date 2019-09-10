@@ -1,0 +1,5 @@
+*.mat
+*.swp
+*.swo
+*.json
+*.ipynb_che*
