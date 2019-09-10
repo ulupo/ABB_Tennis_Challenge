@@ -1,4 +1,5 @@
-# L2F_Tennis_Challenge
+# The L2F Tennis Challenge
+
 Repository for a tennis-themed machine learning workshop on organised by [L2F research](https://www.l2f.ch/research).
 
 Dataset based on Jeff Sackman's Match Charting Project: https://github.com/JeffSackmann/tennis_MatchChartingProject.
