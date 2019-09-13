@@ -2,6 +2,6 @@
 *.swo
 *.json
 *.ipynb_che*
-Testing/*
+Solutions_and_Testing/*
 .DS_Store
 *.pyc
